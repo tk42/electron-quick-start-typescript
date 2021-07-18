@@ -39,6 +39,9 @@ To recompile automatically and to allow using [electron-reload](https://github.c
 npm run watch
 ```
 
+## Application Distribution
+electron/electron shows [Application Distribution](https://github.com/electron/electron/blob/main/docs/tutorial/application-distribution.md)
+
 ## Resources for Learning Electron
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
